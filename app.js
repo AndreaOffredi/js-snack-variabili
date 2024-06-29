@@ -9,5 +9,10 @@ console.log(PI)
 // Esercizio 2B per verificare errore
 PI = 3.1416
 
-// Esercizio 3
+// Esercizio 2C
+let radius = 8
+let circle = radius * 2 * PI
+console.log(circle)
+
+
 
