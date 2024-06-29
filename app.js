@@ -14,5 +14,9 @@ let radius = 8
 let circle = radius * 2 * PI
 console.log(circle)
 
+// Esercizio 3
+let name = 'Carlo'
+name = 'Marco'
+console.log(name)
 
 
